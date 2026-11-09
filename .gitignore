@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Configurações do editor
+.vscode/
+
+# Arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
